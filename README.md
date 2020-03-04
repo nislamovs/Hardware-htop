@@ -1,7 +1,10 @@
 # Hardware-htop
 Wireless desktop device for visualizing system status.
 
-### Description
+![Device](docs/photos/device.jpg) <!-- .element height="50%" width="50%" -->
 
-### Purpose
-[logo]: https://github.com/nislamovs/Hardware-htop/docs/purpose.jpg
+### Summary:
+
+### Purpose:
+
+![Purpose](docs/PURPOSE.JPG)
