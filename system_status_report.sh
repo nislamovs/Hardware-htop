@@ -42,6 +42,7 @@ do
                     '{CORE01: $core01, CORE02: $core02, CORE03: $core03, CORE04: $core04,
                       CORE05: $core05, CORE06: $core06, CORE07: $core07, CORE08: $core08,
                       MEMORY_LOAD: $mem_load, HDD_LOAD: $hdd_load}' )
+
   clear;
   echo "$JSON_STRING" | jq .
 

@@ -47,6 +47,6 @@ do
 
   curl -vvv -X POST "$HWPANEL_URL" --header 'Content-Type: application/json' --data-raw "$JSON_STRING"
 
-  sleep 1
+  sleep 0.1
 
 done
