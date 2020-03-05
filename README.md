@@ -175,7 +175,7 @@ https://arduinojson.org/v6/doc/upgrade/
 ------------------------------------------------------------------------------------------------------------------
 ### Starting up and calibration:
 
-As You can see, there are 2 files `t`est_75%_gauge_values.sh` and `test_100%_gauge_values.sh` in project root folder.
+As You can see, there are 2 files `test_75%_gauge_values.sh` and `test_100%_gauge_values.sh` in project root folder.
 
 When You will launch first time hardware module, You should setup all potentiometers as expected. 
 
