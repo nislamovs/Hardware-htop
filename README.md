@@ -8,9 +8,11 @@ Wireless desktop device for visualizing system status.
 1. [Description](#description)
 2. [Linux script setup](#linux-script-setup)
 3. [Hardware module schematic](#hardware-module-schematic)
-4. [Additional sources](#additional-sources)
-5. [Video demonstration](#video-demonstration)
-6. [Purpose](#purpose)  
+4. [Setting up IDE and flashing firmware](#setting-up-ide-and-flashing-firmware)
+5. [Additional sources](#additional-sources)
+6. [Starting up and calibration](#starting-up-and-calibration)
+7. [Video demonstration](#video-demonstration)
+8. [Purpose](#purpose)  
 
 ------------------------------------------------------------------------------------------------------------------
 ### Description:
@@ -74,6 +76,45 @@ Few photos:
 
 ![Schematic3](docs/photos/schematic3.jpg) <!-- .element height="50%" width="50%" -->
 
+Schematic with description:
+
+![Schematic4](docs/photos/schematic1_desc.jpg) <!-- .element height="50%" width="50%" -->
+
+1. 1ma panel meter (M4203) - shows core load.
+2. 3v panel meter (M4203) - shows core load.
+3. 50uA panel meter (M494) - show hdd used space (left) and ram usage (right).
+4. Reset switch.
+5. Power switch.
+6. Powerbank (1 cell).
+7. Reset button connector.
+8. Power switch connector.
+9. Power bank connector.
+10. Lolin32 module power connector.
+11. Lolin32 module.
+12. Two 50kOhm potentiometers ( there are also 10kOhm smd resistors connected in series with them to Lolin board).
+13. Two 10kOhm potentiometers for 50uA ammeters, one 5kOhm potentiometer for 1ma ammeter, seven 250kOhm potentiometers 
+for 3v voltmeters.   
+
+Panel meters used:
+
+![Panel_meters](docs/panel_meters.jpg) <!-- .element height="50%" width="50%" -->
+
+Gauges:
+
+The gauges for all panel meters could be found in ```front_panel_images``` folder. When you will print them, set scale to 103%.
+The gauges were drawn in [Scale Master][scale_master] and exported as PNG with 600 dpi quality.
+
+Circuit diagram:
+
+![circuit_diagram](docs/photos/circuit_diagram.png) <!-- .element height="50%" width="50%" -->
+
+[Back](#summary)
+
+------------------------------------------------------------------------------------------------------------------
+### Setting up IDE and flashing firmware:
+
+
+
 [Back](#summary)
 
 ------------------------------------------------------------------------------------------------------------------
@@ -82,6 +123,14 @@ Few photos:
 - Lolin32 pinout
 
 ![pinout](docs/ESP32_Pinout.png)
+
+[Back](#summary)
+
+------------------------------------------------------------------------------------------------------------------
+### Starting up and calibration:
+
+
+
 
 [Back](#summary)
 
@@ -103,3 +152,4 @@ https://youtu.be/7kQVsOccEv4
 ------------------------------------------------------------------------------------------------------------------
 
   [board_wiki]: <https://wiki.wemos.cc/products:lolin32:lolin32_lite>
+  [scale_master]: <https://soulmare.github.io/scale_master/#>
