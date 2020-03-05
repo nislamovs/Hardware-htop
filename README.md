@@ -66,7 +66,13 @@ P.S. Possibly You will need to fix hardware module ip address. Check Your router
 ------------------------------------------------------------------------------------------------------------------
 ### Hardware module schematic
 
+Few photos:
 
+![Schematic1](docs/photos/schematic1.jpg) <!-- .element height="50%" width="50%" -->
+
+![Schematic2](docs/photos/schematic2.jpg) <!-- .element height="50%" width="50%" -->
+
+![Schematic3](docs/photos/schematic3.jpg) <!-- .element height="50%" width="50%" -->
 
 [Back](#summary)
 
