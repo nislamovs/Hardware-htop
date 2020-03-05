@@ -5,14 +5,12 @@ Wireless desktop device for visualizing system status.
 
 ### Summary:
 
-1. [Description](#description\:)
-2. [Linux script setup](#linux-script-setup\:)
-
-3. [Hardware module schematic](#hardware_module_schematic\:)
-
-4. [Additional sources](#additional-sources\:)
-5. [Video demonstration](#video_demonstration)
-6. [Purpose](#purpose)  
+1. [Description](#description)
+2. [Linux script setup](#linux-script-setup)
+3. [Hardware module schematic](#hardware-module-schematic)
+4. [Additional sources](#additional-sources)
+5. [Video demonstration](#video-demonstration)
+6. [Purpose](#purpose\:)  
 
 ------------------------------------------------------------------------------------------------------------------
 ### Description:
@@ -92,6 +90,7 @@ https://youtu.be/7kQVsOccEv4
 ### Purpose:
 
 ![Purpose](docs/PURPOSE.JPG)
+
 
 [Back](#summary\:)
 
