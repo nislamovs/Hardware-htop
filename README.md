@@ -10,7 +10,7 @@ Wireless desktop device for visualizing system status.
 3. [Hardware module schematic](#hardware-module-schematic)
 4. [Additional sources](#additional-sources)
 5. [Video demonstration](#video-demonstration)
-6. [Purpose](#purpose\:)  
+6. [Purpose](#purpose)  
 
 ------------------------------------------------------------------------------------------------------------------
 ### Description:
@@ -34,7 +34,7 @@ Device also has reset button, power switch and powerbank to make it fully wirele
 TODO: add additional wire for the powerbank to charge the device without opening an enclosure :)
 
 
-[Back](#summary\:)
+[Back](#summary)
 
 ------------------------------------------------------------------------------------------------------------------
 ### Linux script setup:
@@ -61,14 +61,14 @@ Done! Now when Linux will start, it'll collect data about cpu, hdd and ram, buil
 
 P.S. Possibly You will need to fix hardware module ip address. Check Your router settings (DHCP clients).
 
-[Back](#summary\:)
+[Back](#summary)
 
 ------------------------------------------------------------------------------------------------------------------
 ### Hardware module schematic
 
 
 
-[Back](#summary\:)
+[Back](#summary)
 
 ------------------------------------------------------------------------------------------------------------------
 ### Additional sources:
@@ -77,14 +77,14 @@ P.S. Possibly You will need to fix hardware module ip address. Check Your router
 
 ![pinout](docs/ESP32_Pinout.png)
 
-[Back](#summary\:)
+[Back](#summary)
 
 ------------------------------------------------------------------------------------------------------------------
 ### Video demonstration:
 
 https://youtu.be/7kQVsOccEv4 
 
-[Back](#summary\:)
+[Back](#summary)
 
 ------------------------------------------------------------------------------------------------------------------
 ### Purpose:
@@ -92,7 +92,7 @@ https://youtu.be/7kQVsOccEv4
 ![Purpose](docs/PURPOSE.JPG)
 
 
-[Back](#summary\:)
+[Back](#summary)
 
 ------------------------------------------------------------------------------------------------------------------
 
