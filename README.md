@@ -33,9 +33,6 @@ only slightly reduce voltage - I used potentiometers for 250kOhms, connected as 
 
 Device also has reset button, power switch and powerbank to make it fully wireless ;)
 
-TODO: add additional wire for the powerbank to charge the device without opening an enclosure :)
-
-
 [Back](#summary)
 
 ------------------------------------------------------------------------------------------------------------------
